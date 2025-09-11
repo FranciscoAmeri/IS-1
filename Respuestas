@@ -1,0 +1,101 @@
+# Respuestas Correctas - 50 Preguntas sobre Procesos de Software
+
+1. **b)** Especificación, diseño e implementación, validación y evolución
+
+2. **b)** Tener fases separadas y distintas que deben completarse secuencialmente
+
+3. **c)** La dificultad de acomodar cambios una vez iniciado el proceso
+
+4. **b)** Especificación, desarrollo y validación
+
+5. **b)** El desarrollo incremental se enfoca en cómo se construye internamente, la entrega incremental en cómo se libera al usuario
+
+6. **b)** Análisis de requerimientos, análisis de componentes, modificación de requerimientos, configuración del sistema, desarrollo e integración
+
+7. **b)** Que todas las actividades del proceso se planifican con antelación y el progreso se mide contra este plan
+
+8. **b)** La planificación es gradual y es más fácil cambiar el proceso para reflejar requisitos cambiantes
+
+9. **b)** Desarrollar una serie de prototipos que se refinan basándose en el feedback del usuario
+
+10. **b)** Establecimiento de objetivos, valoración y reducción del riesgo, desarrollo y validación, planeación
+
+11. **b)** Estudio de factibilidad, obtención y análisis, especificación y validación de requerimientos
+
+12. **b)** Diseño arquitectónico, diseño de interfaz, diseño de componentes y diseño de base de datos
+
+13. **b)** Pruebas de componentes, pruebas del sistema, pruebas de aceptación
+
+14. **b)** El cambio del sistema en respuesta a las necesidades cambiantes de los clientes
+
+15. **b)** Mejora la usabilidad del sistema y proporciona una aproximación más exacta a las necesidades reales de los usuarios
+
+16. **b)** No cumplen con los estándares de calidad normal, están poco documentados y su estructura se degrada
+
+17. **b)** Evitar el cambio y tolerancia al cambio
+
+18. **b)** El nivel de incertidumbre, cambios esperados, necesidad de cumplir normativas y riesgo del error
+
+19. **b)** Revisar el documento de requisitos con el cliente
+
+20. **b)** Cada entrega debe ser usable y aportar valor al usuario final
+
+21. **b)** Rápido desarrollo y entrega
+
+22. **b)** Individuos e interacciones, software funcionando, colaboración con el cliente, respuesta ante el cambio
+
+23. **c)** Desarrollo de las pruebas primero
+
+24. **b)** 2-4 semanas
+
+25. **b)** Minimum Viable Product (Producto Mínimo Viable)
+
+26. **c)** Proteger al equipo de distracciones externas
+
+27. **b)** Documentación extensa
+
+28. **c)** Revisión informal del código
+
+29. **b)** Dificultad en la comunicación entre equipos distribuidos
+
+30. **b)** "Como [rol], quiero [funcionalidad] para [beneficio]"
+
+31. **b)** Product Owner
+
+32. **d)** Sprint Goal
+
+33. **b)** 15 minutos
+
+34. **b)** ¿Qué hice ayer? ¿Qué voy a hacer hoy? ¿Tengo algún impedimento?
+
+35. **d)** Sucesión de Fibonacci
+
+36. **b)** Sprint Planning
+
+37. **b)** Scrum Master
+
+38. **c)** El valor desarrollado para el cliente
+
+39. **c)** Evaluar cómo se implementó el sprint y proponer mejoras
+
+40. **b)** Proceso de descubrir, analizar, documentar y verificar los servicios que el sistema debe ofrecer y las restricciones en su operación
+
+41. **c)** Económico
+
+42. **c)** Ser enunciados en lenguaje natural de alto nivel sobre servicios esperados
+
+43. **b)** Los funcionales describen servicios del sistema, los no funcionales describen limitaciones y restricciones
+
+44. **b)** Uso de tarjeta de identidad para autenticación según política de la empresa
+
+45. **b)** 5
+
+46. **c)** Cualidades relacionadas con la calidad del sistema como usabilidad y rendimiento
+
+47. **c)** Etnografía
+
+48. **b)** Software Requirements Specification
+
+49. **b)** Realizar seguimiento de cambios y evaluar su impacto durante el desarrollo
+
+50. **b)** Unified Modeling Language - Lenguaje de modelado estándar
