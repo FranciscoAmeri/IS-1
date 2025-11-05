@@ -1,3 +1,16 @@
+¿Qué es la ISO 9000 y la ISO 9001?
+¿Qué es la revisión? ¿Cómo es el proceso de revisión?
+¿Cómo son las revisiones de calidad?
+¿Cuáles son los criterios de éxito para la gestión de un proyecto?
+¿Qué actividades deben desarrollar los administradores?
+¿Qué es un riesgo? ¿Qué tipos de riesgo hay? ¿Qué es la gestión del riesgo?
+¿Qué es la evolución y/o mantenimiento del software?
+¿Cómo es el proceso de evolución del software?
+¿Qué son las pruebas de desarrollo?
+¿Qué son las pruebas unitarias? ¿Cuál es la efectividad de las pruebas unitarias?
+¿Qué son las pruebas de clases?
+
+
 # 50 Preguntas sobre Procesos de Software
 
 ## 1. ¿Cuáles son las cuatro actividades básicas que todos los procesos de software incluyen?
@@ -293,6 +306,10 @@ a) Eliminar todos los cambios en los requerimientos
 b) Realizar seguimiento de cambios y evaluar su impacto durante el desarrollo  
 c) Convertir requerimientos funcionales en no funcionales  
 d) Reducir el número total de requerimientos del sistema  
+
+
+
+
 
 ## 50. ¿Qué es UML?
 a) Un lenguaje de programación orientado a objetos  
