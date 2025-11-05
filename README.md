@@ -20,6 +20,9 @@
 
 ¿Qué son las pruebas de clases?
 
+Complete el siguiente diagrama de cómo se implementa un cambio en un caso ideal:
+<img width="809" height="143" alt="image" src="https://github.com/user-attachments/assets/d3d5cadf-c4e8-449e-9e23-2f4a89906fc3" />
+
 # 50 Preguntas sobre Procesos de Software
 
 ## 1. ¿Cuáles son las cuatro actividades básicas que todos los procesos de software incluyen?
